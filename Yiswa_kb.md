@@ -54,6 +54,7 @@ Yiswa offers three main shopping experiences, each with unique advantages:
 - Social shopping experience
 
 **Note:** Group Deals are eligible for Yiswa Rewards loyalty program.
+**hint:** grpoup deals offered a fixed discount if the number of buyers reached you can take the offer if not you can't take it but the discount rate not depend on the number of buyers
 
 **Media - Arabic:**
 - Images: https://realestatedemo.trypair.ai/upload/buildings/multi-image/1854506541980259.jpg , https://realestatedemo.trypair.ai/upload/buildings/multi-image/1854506541983348.jpg
