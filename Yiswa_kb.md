@@ -201,11 +201,11 @@ A: If the delivery agent couldn't reach you, your delivery will be rescheduled f
 **Key Information:**
 - Orders can be tracked in "My Orders" section
 - Cancellations processed through Customer Service
-- Refunds take 1-5 business days
+- Refunds take 1-3 business days
 - Common purchase failures: insufficient balance, incorrect card info, expired card, sold out product
 
 **Q10: How can I cancel my order?**
-A: To cancel an order, contact Customer Service Team via the app. The amount will be refunded to your bank account within 1 to 5 business days.
+A: To cancel an order, contact Customer Service Team via the app. The amount will be refunded to your bank account within 1 to 3 business days.
 
 **Q11: Why didn't my purchase go through?**
 A: There could be several reasons:
