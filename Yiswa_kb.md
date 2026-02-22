@@ -86,11 +86,17 @@ A: When you join a Group Deal, the advertised amount is reserved (not charged). 
 - You can try your luck on different products
 - Fast delivery (24 hours) for winners
 
+**Fees for Multiple Items:**
+- If you order more than one product through Price Match/Soum, a delivery fee of 1 KD and an additional 0.5 KD service fee will be charged for all products ordered at the same time
+- This is because only this feature allows adding multiple products to the cart
+- At checkout, the delivery fee and additional charge will be calculated only once, whether you order one product or multiple products
+
 **Benefits:**
 - Name your own price
 - Quick delivery if you win
 - Multiple chances to secure the deal
 - Perfect for bargain hunters
+- Can add multiple products to cart (unlike other features)
 
 **Media - Arabic:**
 - Images: https://realestatedemo.trypair.ai/upload/buildings/multi-image/1854506541991165.jpg
@@ -144,7 +150,7 @@ A: Yes, all products on the app are 100% genuine, new, and covered by local dist
 **Q14: Are all products have warranty?**
 A: Yes, all products come with a warranty from the authorized local distributor in Kuwait.
 
-### Golden Deal Feature
+###Golden Deal Feature
 
 **Key Information:**
 - Golden Deal is a special designation for guaranteed best market prices
@@ -196,7 +202,7 @@ A: You can view delivery dates in the "My Orders" section of your profile, liste
 **Q20: The delivery agent called me but I didn't answer. When will the delivery be rescheduled?**
 A: If the delivery agent couldn't reach you, your delivery will be rescheduled for the next day.
 
-### Order Management & Purchase Issues
+###Order Management & Purchase Issues
 
 **Key Information:**
 - Orders can be tracked in "My Orders" section
@@ -231,6 +237,9 @@ A: You can verify your purchase status in the "My Orders" section of your profil
 - Contact Customer Service through the app for all return/exchange requests
 - Issues after 14 days require service center referral
 - Damaged products can be replaced or refunded based on customer preference
+- Refund timeframes:
+  - Cancellation (before delivery): 3 business days
+  - Return (after delivery): 10 business days after management approval
 
 **Questions & Answers:**
 
@@ -258,7 +267,7 @@ A: Sorry to hear that. Please contact support to handle this complaint. After re
 
 **Topic:** Managing Delivery Addresses, Profile Settings, and Supplier Onboarding
 
-### Account Settings & Profile Management
+###Account Settings & Profile Management
 
 **Key Information:**
 - Multiple delivery addresses can be added and managed
@@ -267,7 +276,7 @@ A: Sorry to hear that. Please contact support to handle this complaint. After re
 **Q13: Can I add multiple delivery addresses?**
 A: Yes, the app allows you to add and manage multiple delivery addresses.
 
-### Supplier Information
+###Supplier Information
 
 **Key Information:**
 - Suppliers can request to list products through Customer Service
@@ -275,6 +284,7 @@ A: Yes, the app allows you to add and manage multiple delivery addresses.
 
 **Q17: I'm a supplier and want to list my products on the app. How can I proceed?**
 A: Please contact Customer Service Team via the app to submit your request to the relevant department.
+Note: Yiswa only works with companies and authorized local distributors within Kuwait, not individual suppliers.
 
 ---
 
@@ -282,7 +292,7 @@ A: Please contact Customer Service Team via the app to submit your request to th
 
 **Topic:** Understanding Operational Fees and Loyalty Benefits
 
-### Yiswa Fees
+###Yiswa Fees
 
 **Key Information:**
 - Yiswa fees are operational fees charged separately from delivery fees
@@ -293,7 +303,7 @@ A: Please contact Customer Service Team via the app to submit your request to th
 **Q21: What are Yiswa fees?**
 A: Yiswa fees are operational fees charged separately from delivery fees. They cover the cost of running and maintaining the service and appear as a separate line at checkout.
 
-### Yiswa Rewards - Loyalty Program
+###Yiswa Rewards - Loyalty Program
 
 **Key Information:**
 - Automatic loyalty program that rewards frequent shoppers
